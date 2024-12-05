@@ -1,0 +1,8 @@
+# VS Code Files
+.vscode/
+
+# Node Modules
+node_modules/
+
+# Environment Variables
+.env
